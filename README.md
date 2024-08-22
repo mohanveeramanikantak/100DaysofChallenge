@@ -30,6 +30,3 @@ I will be documenting my progress here daily. Follow along to see what I'm worki
 - 💻 [LinkedIn](https://www.linkedin.com/in/kalepu-mohan-veera-manikanta-52546125a/)
 - 🌐 [Portfolio](https://mohanveeramanikantak.github.io/Personal-Portfolio.io/)
 
----
-
-Feel free to customize it further with specific projects or goals as you progress!

@@ -14,30 +14,30 @@ Welcome to my 100 Days of Code Challenge! This journey is all about improving my
 ## Daily Log
 I will be documenting my progress here daily. Follow along to see what I'm working on, what I've learned, and how I'm debugging both love and logic! 💖😄
 
-| Day | Language | Topic/Project | Link to Code |
-|-----|----------|---------------|--------------|
-| 1   | C++      |               |              |
-| 2   | C++      |               |              |
-| 3   | C++      |               |              |
-| 4   | C++      |               |              |
-| 5   | C++      |               |              |
-| 6   | C++      |               |              |
-| 7   | C++      |               |              |
-| 8   | C++      |               |              |
-| 9   | C++      |               |              |
-| 10  | C++      |               |              |
-| 11  | C++      |               |              |
-| 12  | C++      |               |              |
-| 13  | C++      |               |              |
-| 14  | C++      |               |              |
-| 15  | C++      |               |              |
-| 16  | C++      |               |              |
-| 17  | C++      |               |              |
-| 18  | C++      |               |              |
-| 19  | C++      |               |              |
-| 20  | C++      |               |              |
-| ... | ...      |               |              |
-| 100 | Python   |               |              |
+| Day | Language |       Topic/Project        | Link to Code |
+|-----|----------|----------------------------|--------------|
+| 1   | C++      |                            |              |
+| 2   | C++      |                            |              |
+| 3   | C++      |                            |              |
+| 4   | C++      |                            |              |
+| 5   | C++      |                            |              |
+| 6   | C++      |                            |              |
+| 7   | C++      |                            |              |
+| 8   | C++      |                            |              |
+| 9   | C++      |                            |              |
+| 10  | C++      |                            |              |
+| 11  | C++      |                            |              |
+| 12  | C++      |                            |              |
+| 13  | C++      |                            |              |
+| 14  | C++      |                            |              |
+| 15  | C++      |                            |              |
+| 16  | C++      |                            |              |
+| 17  | C++      |                            |              |
+| 18  | C++      |                            |              |
+| 19  | C++      |                            |              |
+| 20  | C++      |                            |              |
+| ... | ...      |                            |              |
+| 100 | Python   |                            |              |
 
 ## Goals
 - **C++:** Strengthen my understanding of core concepts and solve complex problems.

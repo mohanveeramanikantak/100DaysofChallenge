@@ -28,8 +28,8 @@ I will be documenting my progress here daily. Follow along to see what I'm worki
 | 10  | C++      | Structures                        | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_10/Structures.cpp                   |
 | 11  | C++      | Classes and Objects               | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_11/Calculator.cpp                   |
 | 12  | C++      | Inheritance                       | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-2/Day_12                                  |
-| 13  | C++      | Operator Overloading              | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_13/Operator_Overloading.cpp             |
-| 14  | C++      |                            |              |
+| 13  | C++      | Operator Overloading              | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_13/Operator_Overloading.cpp         |
+| 14  | C++      | File I/O                          | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_14/File.cpp                         |
 | 15  | C++      |                            |              |
 | 16  | C++      |                            |              |
 | 17  | C++      |                            |              |

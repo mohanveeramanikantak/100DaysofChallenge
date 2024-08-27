@@ -23,12 +23,12 @@ I will be documenting my progress here daily. Follow along to see what I'm worki
 | 5   | C++      | Arrays                            | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-1/Day-5/Array_Day5.cpp                    |
 | 6   | C++      | Functions                         | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-1/Day-6/Functions.cpp                     |
 | 7   | C++      | Basic I/O                         | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-1/Day-7/Basic.cpp                         |
-| 8   | C++      |                            |              |
-| 9   | C++      |                            |              |
-| 10  | C++      |                            |              |
-| 11  | C++      |                            |              |
-| 12  | C++      |                            |              |
-| 13  | C++      |                            |              |
+| 8   | C++      | Pointers                          | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_8/Pointers.cpp                      |
+| 9   | C++      | String Manipulation               | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_9/String_manipulation.cpp           |
+| 10  | C++      | Structures                        | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_10/Structures.cpp                   |
+| 11  | C++      | Classes and Objects               | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_11/Calculator.cpp                   |
+| 12  | C++      | Inheritance                       | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-2/Day_12                                  |
+| 13  | C++      | Operator Overloading              | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_13/Operator_Overloading.cpp             |
 | 14  | C++      |                            |              |
 | 15  | C++      |                            |              |
 | 16  | C++      |                            |              |

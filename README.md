@@ -16,7 +16,7 @@ I will be documenting my progress here daily. Follow along to see what I'm worki
 
 | Day | Language |       Topic/Project              | Link to Code |
 |-----|----------|----------------------------------|--------------|
-| 1   | C++      | Basic Tasks Hello, World!        | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-1/Day-1/Day_1_Helloworld.cpp              |
+| 1   | C++      | Basic Tasks - Hello World!        | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-1/Day-1/Day_1_Helloworld.cpp              |
 | 2   | C++      |                                  |              |
 | 3   | C++      |                            |              |
 | 4   | C++      |                            |              |

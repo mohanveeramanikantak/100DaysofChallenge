@@ -17,12 +17,12 @@ I will be documenting my progress here daily. Follow along to see what I'm worki
 | Day | Language |       Topic/Project              | Link to Code |
 |-----|----------|----------------------------------|--------------|
 | 1   | C++      | Basic Tasks - Hello World!        | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-1/Day-1/Day_1_Helloworld.cpp              |
-| 2   | C++      |                                  |              |
-| 3   | C++      |                            |              |
-| 4   | C++      |                            |              |
-| 5   | C++      |                            |              |
-| 6   | C++      |                            |              |
-| 7   | C++      |                            |              |
+| 2   | C++      | Basic Arithmetic Operations       | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-1/Day-2/Day_2_Task.cpp                    |
+| 3   | C++      | Control Flow (if/else)            | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-1/Day-3/Day_3%20Task.cpp                  |
+| 4   | C++      | Loops (for/while/do while)        | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-1/Day-4                                   |
+| 5   | C++      | Arrays                            | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-1/Day-5/Array_Day5.cpp                    |
+| 6   | C++      | Functions                         | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-1/Day-6/Functions.cpp                     |
+| 7   | C++      | Basic I/O                         | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-1/Day-7/Basic.cpp                         |
 | 8   | C++      |                            |              |
 | 9   | C++      |                            |              |
 | 10  | C++      |                            |              |

@@ -72,16 +72,16 @@ I will be documenting my progress here daily. Follow along to see what I'm worki
 | 58  | Java     |                            |              |
 | 59  | Java     |                            |              |
 | 60  | Java     |                            |              |
-| 61  | Java     |                            |              |
-| 62  | Java     |                            |              |
-| 63  | Java     |                            |              |
-| 64  | Java     |                            |              |
-| 65  | Java     |                            |              |
-| 66  | Java     |                            |              |
-| 67  | Java     |                            |              |
-| 68  | Java     |                            |              |
-| 69  | Java     |                            |              |
-| 70 | Java     |                            |              |
+| 61  | Python   |                            |              |
+| 62  | Python   |                            |              |
+| 63  | Python   |                            |              |
+| 64  | Python   |                            |              |
+| 65  | Python   |                            |              |
+| 66  | Python   |                            |              |
+| 67  | Python   |                            |              |
+| 68  | Python   |                            |              |
+| 69  | Python   |                            |              |
+| 70  | Python   |                            |              |
 
 ## Goals
 - **C++:** Strengthen my understanding of core concepts and solve complex problems.

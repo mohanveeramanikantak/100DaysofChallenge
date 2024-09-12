@@ -26,14 +26,62 @@ I will be documenting my progress here daily. Follow along to see what I'm worki
 | 12  | C++      | Inheritance                       | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-2/Day_12                                  |
 | 13  | C++      | Operator Overloading              | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_13/Operator_Overloading.cpp         |
 | 14  | C++      | File I/O                          | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_14/File.cpp                         |
-| 15  | C++      |                            |              |
-| 16  | C++      |                            |              |
-| 17  | C++      |                            |              |
-| 18  | C++      |                            |              |
-| 19  | C++      |                            |              |
-| 20  | C++      |                            |              |
-| ... | ...      |                            |              |
-| 100 | Python   |                            |              |
+| 15  | C++      | Dynamic Memory Allocation         | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_15                                  |
+| 16  | C++      | Exception Handling                | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_16                                  |
+| 17  | C++      | Template                          | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_17                                  |
+| 18  | C++      | STL (Standard Template Library)   | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_18                                  |
+| 19  | C++      | Recursion                         | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_19                                  |
+| 20  | C++      | Multithreading                    | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_20                                  |
+| 21  | C++      | Bus Reservation Project           | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_21                                  |
+| 22  | Java     |                            |              |
+| 23  | Java     |                            |              |
+| 24  | Java     |                            |              |
+| 25  | Java     |                            |              |
+| 26  | Java     |                            |              |
+| 27  | Java     |                            |              |
+| 28  | Java     |                            |              |
+| 29  | Java     |                            |              |
+| 30  | Java     |                            |              |
+| 31  | Java     |                            |              |
+| 32  | Java     |                            |              |
+| 33  | Java     |                            |              |
+| 34  | Java     |                            |              |
+| 35  | Java     |                            |              |
+| 36  | Java     |                            |              |
+| 37  | Java     |                            |              |
+| 38  | Java     |                            |              |
+| 39  | Java     |                            |              |
+| 40  | Java     |                            |              |
+| 41  | Java     |                            |              |
+| 42  | Java     |                            |              |
+| 43  | Java     |                            |              |
+| 44  | Java     |                            |              |
+| 45  | Java     |                            |              |
+| 46  | Java     |                            |              |
+| 47  | Java     |                            |              |
+| 48  | Java     |                            |              |
+| 49  | Java     |                            |              |
+| 50  | Java     |                            |              |
+| 51  | Java     |                            |              |
+| 52  | Java     |                            |              |
+| 53  | Java     |                            |              |
+| 54  | Java     |                            |              |
+| 55  | Java     |                            |              |
+| 56  | Java     |                            |              |
+| 57  | Java     |                            |              |
+| 58  | Java     |                            |              |
+| 59  | Java     |                            |              |
+| 60  | Java     |                            |              |
+| 61  | Java     |                            |              |
+| 62  | Java     |                            |              |
+| 63  | Java     |                            |              |
+| 64  | Java     |                            |              |
+| 65  | Java     |                            |              |
+| 66  | Java     |                            |              |
+| 67  | Java     |                            |              |
+| 68  | Java     |                            |              |
+| 69  | Java     |                            |              |
+| 70 | Java     |                            |              |
 
 ## Goals
 - **C++:** Strengthen my understanding of core concepts and solve complex problems.

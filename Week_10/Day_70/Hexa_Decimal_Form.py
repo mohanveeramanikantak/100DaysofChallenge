@@ -1,0 +1,9 @@
+a=10
+b=0o10
+c=0x10
+d=0b10
+print(a)
+print(b)
+print(c)
+print(d)
+print(type(d))

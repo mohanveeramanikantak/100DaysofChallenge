@@ -82,6 +82,11 @@ I will be documenting my progress here daily. Follow along to see what I'm worki
 | 68  | Python   |                            |              |
 | 69  | Python   |                            |              |
 | 70  | Python   |                            |              |
+| 71  | Python   |                            |              |
+| 72  | Python   |                            |              |
+| 73  | Python   |                            |              |
+| 74  | Python   |                            |              |
+| 75  | Python   |                            |              |
 
 ## Goals
 - **C++:** Strengthen my understanding of core concepts and solve complex problems.

@@ -93,7 +93,7 @@ I will be documenting my progress here daily. Follow along to see what I'm worki
 | 79  | Python   |                            |              |
 | 80  | Python   |                            |              |
 | 81  | Python   |                            |              |
-
+| 82  | Python   |                            |              |
 ## Goals
 - **C++:** Strengthen my understanding of core concepts and solve complex problems.
 - **Java:** Dive deep into object-oriented programming and develop some cool projects.

@@ -36,7 +36,7 @@ I will be documenting my progress here daily. Follow along to see what I'm worki
 | 22  | Java     | Simple java Program               | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-4/Day_22                                  |
 | 23  | Java     | Int, Float , keywords             | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-4/Day_23                                  |
 | 24  | Java     |                                   |              |
-| 25  | Java     |                            |              |
+| 25  | Java     |                                   |              |
 | 26  | Java     |                            |              |
 | 27  | Java     |                            |              |
 | 28  | Java     |                            |              |

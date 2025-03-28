@@ -46,7 +46,7 @@ I will be documenting my progress here daily. Follow along to see what I'm worki
 | 32  | Java     |                                   |              |
 | 33  | Java     |                                   |              |
 | 34  | Java     |                                   |              |
-| 35  | Java     |                            |              |
+| 35  | Java     |                                   |              |
 | 36  | Java     |                            |              |
 | 37  | Java     |                            |              |
 | 38  | Java     |                            |              |

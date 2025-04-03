@@ -2,7 +2,7 @@
 
 Welcome to my 100 Days of Code Challenge! This journey is all about improving my coding skills, exploring new languages, and having a lot of fun along the way. Here's the plan:
 
-## Challenge Breakdown
+## Challenge Breakdown 
 - **Days 1-20:** C++ 🌟 
 - **Days 21-60:** Java ☕
 - **Days 61-100:** Python 🐍 

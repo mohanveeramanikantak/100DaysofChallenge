@@ -4,8 +4,8 @@ Welcome to my 100 Days of Code Challenge! This journey is all about improving my
 
 ## Challenge Breakdown
 - **Days 1-20:** C++ 🌟 
-- **Days 21-60:** Java ☕  
-- **Days 61-100:** Python 🐍
+- **Days 21-60:** Java ☕ 
+- **Days 61-100:** Pythonm 🐍
 
 ## Daily Log
 I will be documenting my progress here daily. Follow along to see what I'm working on, what I've learned, and how I'm debugging both love and logic! 💖😄 

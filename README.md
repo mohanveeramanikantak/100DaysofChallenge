@@ -1,4 +1,4 @@
- # 🚀 100 Days of Code Challenge
+# 🚀 100 Days of Code Challenge
 
 Welcome to my 100 Days of Code Challenge! This journey is all about improving my coding skills, exploring new languages, and having a lot of fun along the way. Here's the plan:
 

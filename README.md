@@ -28,7 +28,7 @@ I will be documenting my progress here daily. Follow along to see what I'm worki
 | 14  | C++      | File I/O                          | https://github.com/mohanveeramanikantak/100DaysofChallenge/blob/main/Week-2/Day_14/File.cpp                         |
 | 15  | C++      | Dynamic Memory Allocation         | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_15                                  |
 | 16  | C++      | Exception Handling                | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_16                                  |
-| 17  | C++      | Template                          | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_17                                  |
+| 17  | C++      | Template                          | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_17                                   |
 | 18  | C++      | STL (Standard Template Library)   | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_18                                  |
 | 19  | C++      | Recursion                         | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_19                                  |
 | 20  | C++      | Multithreading                    | https://github.com/mohanveeramanikantak/100DaysofChallenge/tree/main/Week-3/Day_20                                  |
